@@ -108,6 +108,9 @@ site.swc_site }}/conduct/">Code of Conduct</a>.
   can use http://itouchmap.com/latlong.html to find the lat/long of an
   address.
   -->
+<h3 id="applying">How to apply to attend the training:</h3>
+
+https://forms.gle/SQaLJYH3YTh4KeBQ7
 <h3 id="where">Where</h3>
 
 {% assign inperson = "false" %}
@@ -119,7 +122,7 @@ site.swc_site }}/conduct/">Code of Conduct</a>.
 
 {% if online == "online" %}
 
-This is an online event and will be conducted using the Zoom video conferencing platform. No log-in is needed. 
+This is a hybrid event, online partipation will be possible and will be conducted using the Zoom video conferencing platform. No log-in is needed. 
 However, if you have not used Zoom before, please click the link a few minutes early as it may prompt you to 
 install the Zoom app or browser extension. You should have received a connection link in the same email that 
 directed you to this website. If you found this page by another means and did not receive the connection link, 
