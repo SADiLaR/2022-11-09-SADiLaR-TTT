@@ -110,7 +110,9 @@ site.swc_site }}/conduct/">Code of Conduct</a>.
   -->
 <h3 id="applying">How to apply to attend the training:</h3>
 
-https://forms.gle/SQaLJYH3YTh4KeBQ7
+Kindly complete the following form to apply to attend the training - <a href="{{ https://forms.gle/SQaLJYH3YTh4KeBQ7 }}">
+  
+  
 <h3 id="where">Where</h3>
 
 {% assign inperson = "false" %}
