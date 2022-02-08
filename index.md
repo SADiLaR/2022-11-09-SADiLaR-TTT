@@ -108,9 +108,7 @@ site.swc_site }}/conduct/">Code of Conduct</a>.
 
 Kindly complete the following form to apply to attend the training - <a href="https://forms.gle/SQaLJYH3YTh4KeBQ7">Apply here</a> 
 
-  <br>
-  <br>
-  
+
 <h3 id="where">Where</h3>
 
 {% assign inperson = "false" %}
