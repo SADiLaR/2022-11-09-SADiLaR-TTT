@@ -16,8 +16,6 @@ locations:            # for online events, delete the second section below. for 
   - venue: "Birchwood Hotel & OR Tambo Conference Centre" 
     address: "44 Viewpoint Road, Bartlett, Boksburg, Johannesburg"
 
-  - venue: "Online access will also be possible" 
-
 ---
 
 <!-- See instructions in the comments below for how to edit specific sections of this workshop template. -->
@@ -108,7 +106,7 @@ site.swc_site }}/conduct/">Code of Conduct</a>.
   -->
 <h3 id="applying">How to apply to attend the training:</h3>
 
-Kindly complete the following form to apply to attend the training - <li><a href="https://forms.gle/SQaLJYH3YTh4KeBQ7">Apply here</a></li> 
+Kindly complete the following form to apply to attend the training - <a href="https://forms.gle/SQaLJYH3YTh4KeBQ7">Apply here</a> 
 
   <br>
   <br>
@@ -128,7 +126,7 @@ This is a hybrid event, online partipation will be possible and will be conducte
 However, if you have not used Zoom before, please click the link a few minutes early as it may prompt you to 
 install the Zoom app or browser extension. You should have received a connection link in the same email that 
 directed you to this website. If you found this page by another means and did not receive the connection link, 
-please check your spam folder and email instructor.training@carpentries.org with your Trainers (contact details below) on cc.
+please check your spam folder and email mmasibidi.setaka@nwu.ac.za with your Trainers (contact details below) on cc.
 
 {% else %}
 {% assign inperson = "true" %}
