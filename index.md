@@ -90,6 +90,13 @@ Carpentries Instructor. For more details on the other 3 steps, see the <a href="
 For more information, see our <a href="{{ site.training_site }}">Instructor Training Curriculum</a>.
 </p>
 
+<h3>Hosting partners</h3>
+<p>This workshop is jointly hosted by NITheCS and SADiLaR</p>
+<p><a href="https://nithecs.ac.za">The National Institute for Theoretical and Computational Sciences (NITheCS)</a> is a platform that allows a diversity of knowledge fields to meet in a stimulating environment. NITheCS provides South Africa with the opportunity to become an international player in fields of science. It builds on the progress achieved by the National Institute for Theoretical Physics (NITheP), an NRF Centre of Excellence (CoE) that has led research programmes and educational opportunities in theoretical physics in South Africa and Africa.</p>
+<p>The South African Centre for Digital Language Resources (SADiLaR) is a national centre supported by the Department of Science and Innovation (DSI). SADiLaR has an enabling function, with a focus on all official languages of South Africa, supporting research and development in the domains of language technologies and language-related studies in the humanities and social sciences. 
+ 
+During this workshop more information will also be provided about SADiLaR's <a href="https://escalator.sadilar.org">Escalator programme</a> which aims to foster and inclusive & active South African community of practice in Digital Humanities & Computational Social Science. Instructors trained as part of this workshop will be able to take part and teach at regional events presented as part of the Escalator programme</p>
+
 <h3>Code of Conduct</h3>
 
 All participants are required to abide by The Carpentries <a href="{{
