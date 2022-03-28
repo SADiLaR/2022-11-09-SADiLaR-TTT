@@ -13,9 +13,8 @@ contact: ["mmasibidi.setaka@nwu.ac.za"]    # boxed, comma-separated list of cont
 etherpad:             # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:            # for online events, delete the second section below. for in-person events, customize the second section and delete the first section.
-  - venue: "Birchwood Hotel & OR Tambo Conference Centre" 
-    address: "44 Viewpoint Road, Bartlett, Boksburg, Johannesburg"
-
+  - venue: "Online" 
+   
 ---
 
 <!-- See instructions in the comments below for how to edit specific sections of this workshop template. -->
@@ -127,7 +126,7 @@ Kindly complete the following form to apply to attend the training - <a href="ht
 
 {% if online == "online" %}
 
-This is a hybrid event, online partipation will be possible and will be conducted using the Zoom video conferencing platform. No log-in is needed. 
+This is an online event and will be conducted using the Zoom video conferencing platform. No log-in is needed. 
 However, if you have not used Zoom before, please click the link a few minutes early as it may prompt you to 
 install the Zoom app or browser extension. You should have received a connection link in the same email that 
 directed you to this website. If you found this page by another means and did not receive the connection link, 
@@ -144,17 +143,6 @@ please check your spam folder and email mmasibidi.setaka@nwu.ac.za with your Tra
 {% endfor %}
 
 {% if inperson == "true" %}
-
-<h4 id="accessibility">Accessibility</h4>
-
-We are committed to making this workshop
-accessible to everybody.
-Workshop organisers have checked that:
-
-<ul>
-  <li>The room is wheelchair / scooter accessible.</li>
-  <li>Accessible restrooms are available.</li>
-</ul>
 
 Materials will be provided in advance of the workshop. 
 If we can help make learning easier for you in any way by 
@@ -180,15 +168,6 @@ Before your training, please visit our Preparing for Instructor Training page fo
 After the training event, we ask you to complete three follow-up tasks to become a certified Instructor. These requirements are detailed on our 
   <a href="{{ site.training_site }}/checkout/">Checkout Instructions</a> page and will be discussed at our training. 
   
-<h3>What to Bring to an In-Person Event</h3>
-
-Participants should bring a laptop that is Internet connected and has a
-functioning browser. If you have it, a device for recording audio and video
-(mobile phones and laptops are OK) is useful as we
-are going to record one another teaching in pairs or threes. It does not have
-to be high-quality, but it should be good enough that you can understand what
-someone is saying.
-
 <h3>Attendance and Cancellation</h3>
 Trainees who miss more than 1 hour of the training may be marked absent. 
 Instructor certification cannot be completed without full attendance at 
