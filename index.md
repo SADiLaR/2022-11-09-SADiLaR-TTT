@@ -10,7 +10,7 @@ enddate: 2022-11-10        # machine-readable end date for the workshop in YYYY-
 instructor: ["??","??","??"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Roo Mabuya"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 contact: ["Mmasibidi.Setaka@nwu.ac.za", "Roo.Mabuya@nwu.ac.za"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["??", "??", "??"]
-etherpad:   [https://pad.carpentries.org/SADiLaR_TTT]  # optional: URL for the workshop Etherpad if there is one
+etherpad:   https://pad.carpentries.org/SADiLaR_TTT  # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:            # for online events, delete the second section below. for in-person events, customize the second section and delete the first section.
   - venue: "Online" 
