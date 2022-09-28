@@ -4,7 +4,7 @@ root: .               # DON'T CHANGE THIS EITHER.  (THANK YOU.)
 country: "ZA"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 humandate: "9 - 10 November 2022"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "8:30 am - 5:00 pm 9-10 November<br> 8:30 am ~ 5:00 pm 3 June for optional instructor checkout"     # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+humantime: "8:30 am - 5:00 pm 9-10 November<br> 8:30 am ~ 5:00 pm"     # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2022-11-09      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2022-11-10        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["??","??","??"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
@@ -89,9 +89,8 @@ Carpentries Instructor. For more details on the other 3 steps, see the <a href="
 For more information, see our <a href="{{ site.training_site }}">Instructor Training Curriculum</a>.
 </p>
 
-<h3>Hosting partners</h3>
+<h3>Hosting partner</h3>
 <p>This workshop is jointly hosted by NITheCS and SADiLaR</p>
-<p><a href="https://nithecs.ac.za">The National Institute for Theoretical and Computational Sciences (NITheCS)</a> is a platform that allows a diversity of knowledge fields to meet in a stimulating environment. NITheCS provides South Africa with the opportunity to become an international player in fields of science. It builds on the progress achieved by the National Institute for Theoretical Physics (NITheP), an NRF Centre of Excellence (CoE) that has led research programmes and educational opportunities in theoretical physics in South Africa and Africa.</p>
 <p>The South African Centre for Digital Language Resources (SADiLaR) is a national centre supported by the Department of Science and Innovation (DSI). SADiLaR has an enabling function, with a focus on all official languages of South Africa, supporting research and development in the domains of language technologies and language-related studies in the humanities and social sciences. 
  
 During this workshop more information will also be provided about SADiLaR's <a href="https://escalator.sadilar.org">Escalator programme</a> which aims to foster and inclusive & active South African community of practice in Digital Humanities & Computational Social Science. Instructors trained as part of this workshop will be able to take part and teach at regional events presented as part of the Escalator programme</p>
