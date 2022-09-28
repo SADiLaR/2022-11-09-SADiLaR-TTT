@@ -8,7 +8,7 @@ humantime: "8:30 am - 5:00 pm 9-10 November<br> 8:30 am ~ 5:00 pm"     # human-r
 startdate: 2022-11-09      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2022-11-10        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["??","??","??"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Roo Mabuya"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Rooweither Mabuya"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 contact: ["Mmasibidi.Setaka@nwu.ac.za", "Roo.Mabuya@nwu.ac.za"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["??", "??", "??"]
 etherpad:   https://pad.carpentries.org/SADiLaR_TTT  # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
@@ -90,7 +90,7 @@ For more information, see our <a href="{{ site.training_site }}">Instructor Trai
 </p>
 
 <h3>Hosting partner</h3>
-<p>This workshop is jointly hosted by NITheCS and SADiLaR</p>
+<p>This workshop is hosted by SADiLaR</p>
 <p>The South African Centre for Digital Language Resources (SADiLaR) is a national centre supported by the Department of Science and Innovation (DSI). SADiLaR has an enabling function, with a focus on all official languages of South Africa, supporting research and development in the domains of language technologies and language-related studies in the humanities and social sciences. 
  
 During this workshop more information will also be provided about SADiLaR's <a href="https://escalator.sadilar.org">Escalator programme</a> which aims to foster and inclusive & active South African community of practice in Digital Humanities & Computational Social Science. Instructors trained as part of this workshop will be able to take part and teach at regional events presented as part of the Escalator programme</p>
