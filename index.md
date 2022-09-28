@@ -38,7 +38,7 @@ locations:            # for online events, delete the second section below. for 
 -->
 {% if page.eventbrite %}
 <iframe
-  src="[https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt](https://www.eventbrite.com/e/419462271947)"
+  src="(https://www.eventbrite.com/e/419462271947)"
   frameborder="0"
   width="100%"
   height="248px"
