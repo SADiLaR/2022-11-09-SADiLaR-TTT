@@ -11,7 +11,7 @@ instructor: ["??","??","??"] # boxed, comma-separated list of instructors' names
 helper: ["Rooweither Mabuya", "Mmasibidi Setaka"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 contact: ["Mmasibidi.Setaka@nwu.ac.za", "Roo.Mabuya@nwu.ac.za"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["??", "??", "??"]
 etherpad:   https://pad.carpentries.org/SADiLaR_TTT  # optional: URL for the workshop Etherpad if there is one
-eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+eventbrite:  L3WQJKCSFID3KEXVAMMT        # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:            # for online events, delete the second section below. for in-person events, customize the second section and delete the first section.
   - venue: "Online" 
    
@@ -38,7 +38,7 @@ locations:            # for online events, delete the second section below. for 
 -->
 {% if page.eventbrite %}
 <iframe
-  src="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt"
+  src="[https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt](https://www.eventbrite.com/e/419462271947)"
   frameborder="0"
   width="100%"
   height="248px"
