@@ -8,7 +8,7 @@ humantime: "8:30 am - 5:00 pm 9-10 November<br> 8:30 am ~ 5:00 pm"     # human-r
 startdate: 2022-11-09      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2022-11-10        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["??","??","??"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Rooweither Mabuya"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Rooweither Mabuya", "Mmasibidi Setaka"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 contact: ["Mmasibidi.Setaka@nwu.ac.za", "Roo.Mabuya@nwu.ac.za"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["??", "??", "??"]
 etherpad:   https://pad.carpentries.org/SADiLaR_TTT  # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
